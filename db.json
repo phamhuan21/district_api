@@ -1,9 +1,9 @@
 {
 "cases_time_series": [
 	    	{
-      "deltaconfirmed": "1307",
-      "deltadeceased": "3",
-      "deltarecovered": "480",
+      "dailyconfirmed": "1307",
+      "dailydeceased": "3",
+      "dailyrecovered": "480",
       "date": "8 Jul 2021",
       "dateymd": "2021-07-08",
       "totalconfirmed": "23740",
