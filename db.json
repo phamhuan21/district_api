@@ -83,18 +83,6 @@
 			"recovered": "8557",
 			"state": "Andaman and Nicobar Islands",
 			"statecode": "HD"
-		},
-		{
-			"active": "15078",
-			"confirmed": "23740",
-			"deaths": "105",
-			"deltaconfirmed": "1307",
-			"deltadeaths": "3",
-			"deltarecovered": "480",
-			"lastupdatedtime": "08/07/2021 09:23:15",
-			"recovered": "8557",
-			"state": "Andaman and Nicobar Islands",
-			"statecode": "HN"
 		}
 	  ]
 }
