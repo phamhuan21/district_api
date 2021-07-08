@@ -1,28 +1,53 @@
-{
-  "TP.Hồ Chí Minh": {
-    "districtData": [
-	    {
-        "notes": "",
-        "active": 6.427,
-        "confirmed": 6.996,
-        "migratedother": 0,
-        "deceased": 14,
-        "recovered": 554,
-	  "statecode": "SG"
-	    }
-        ]
-  },
-  "Bắc Giang": {
-    "districtData": [
-	    {
-        "notes": "",
-        "active": 1.789,
-        "confirmed": 5.708,
-        "migratedother": 0,
-        "deceased": 7,
-        "recovered": 3.912,
-         "statecode": "VN"
-	    }
-	]
-  }
+"statewise": [
+		{
+			"active": "15078",
+			"confirmed": "23740",
+			"deaths": "105",
+			"dailyconfirmed": "1307",
+			"dailydeaths": "3",
+			"dailyrecovered": "480",
+			"lastupdatedtime": "08/07/2021 09:23:15",
+			"recovered": "8557",
+			"state": "Total",
+			"statecode": "TT"
+		},
+		{
+			"active": "15078",
+			"confirmed": "23740",
+			"deaths": "105",
+			"dailyconfirmed": "1307",
+			"dailydeaths": "3",
+			"dailyrecovered": "480",
+			"lastupdatedtime": "08/07/2021 09:23:15",
+			"recovered": "8557",
+			"state": "Andaman and Nicobar Islands",
+			"statecode": "AN"
+		},
+		{
+			"active": "15078",
+			"confirmed": "23740",
+			"deaths": "105",
+			"dailyconfirmed": "1307",
+			"dailydeaths": "3",
+			"dailyrecovered": "480",
+			"lastupdatedtime": "08/07/2021 09:23:15",
+			"recovered": "8557",
+			"state": "Andhra Pradesh",
+			"statecode": "AP"
+		},
+		{
+			"active": "15078",
+			"confirmed": "23740",
+			"deaths": "105",
+			"dailyconfirmed": "1307",
+			"dailydeaths": "3",
+			"dailyrecovered": "480",
+			"lastupdatedtime": "08/07/2021 09:23:15",
+			"recovered": "8557",
+			"state": "Arunachal Pradesh",
+			"statecode": "AR"
+		}
+	  ]
 }
+	
+	
