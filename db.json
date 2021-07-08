@@ -34,7 +34,7 @@
 			"lastupdatedtime": "08/07/2021 09:23:15",
 			"recovered": "8557",
 			"state": "Andaman and Nicobar Islands",
-			"statecode": "AN"
+			"statecode": "SG"
 		},
 		{
 			"active": "15078",
@@ -46,7 +46,7 @@
 			"lastupdatedtime": "08/07/2021 09:23:15",
 			"recovered": "8557",
 			"state": "Andhra Pradesh",
-			"statecode": "AP"
+			"statecode": "BG"
 		},
 		{
 			"active": "15078",
@@ -58,7 +58,43 @@
 			"lastupdatedtime": "08/07/2021 09:23:15",
 			"recovered": "8557",
 			"state": "Arunachal Pradesh",
-			"statecode": "AR"
+			"statecode": "BN"
+		},
+		{
+			"active": "15078",
+			"confirmed": "23740",
+			"deaths": "105",
+			"deltaconfirmed": "1307",
+			"deltadeaths": "3",
+			"deltarecovered": "480",
+			"lastupdatedtime": "08/07/2021 09:23:15",
+			"recovered": "8557",
+			"state": "Andaman and Nicobar Islands",
+			"statecode": "BD"
+		},
+		{
+			"active": "15078",
+			"confirmed": "23740",
+			"deaths": "105",
+			"deltaconfirmed": "1307",
+			"deltadeaths": "3",
+			"deltarecovered": "480",
+			"lastupdatedtime": "08/07/2021 09:23:15",
+			"recovered": "8557",
+			"state": "Andaman and Nicobar Islands",
+			"statecode": "HD"
+		},
+		{
+			"active": "15078",
+			"confirmed": "23740",
+			"deaths": "105",
+			"deltaconfirmed": "1307",
+			"deltadeaths": "3",
+			"deltarecovered": "480",
+			"lastupdatedtime": "08/07/2021 09:23:15",
+			"recovered": "8557",
+			"state": "Andaman and Nicobar Islands",
+			"statecode": "HN"
 		}
 	  ]
 }
